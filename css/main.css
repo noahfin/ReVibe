@@ -33,7 +33,7 @@ body {
 }
 
 html {
-	background: #2c3e50 url('juskteez-vu-3824.jpg') no-repeat center center fixed;
+	background: #2c3e50 url('../juskteez-vu-3824.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	background-size: cover !important;
