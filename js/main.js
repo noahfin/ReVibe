@@ -118,7 +118,7 @@
 	------------------------------------------------------ */
 
 	// Example MailChimp url: http://xxx.xxx.list-manage.com/subscribe/post?u=xxx&id=xxx
-	var mailChimpURL = 'http://facebook.us8.list-manage.com/subscribe/post?u=cdb7b577e41181934ed6a6a44&amp;id=e65110b38d'
+	var mailChimpURL = 'https://mysite.us14.list-manage.com/subscribe/post?u=ce5cff7c71dd8cdb6496dc1fa&amp;id=491d4816ac'
 
 
 	$('#mc-form').ajaxChimp({
